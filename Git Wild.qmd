@@ -8,7 +8,9 @@ editor: visual
 ```{r partner 1}
  
 
-
+## Who the fuck is John Crops?
+## Tell me more about him?
+## Dont you dare delete my code
 
 
 ```
