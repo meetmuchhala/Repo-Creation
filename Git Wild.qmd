@@ -7,16 +7,13 @@ editor: visual
 
 ```{r partner 1}
  
-<<<<<<< HEAD
 
 
-=======
-#### yooyyooo 
-## heyo hi 
+
+
 ```
 
 ```{r}
-##heef
-## hihihihi
->>>>>>> 26a510cde2a2a896aa59c29ae3e30b3c37bd592b
+
+
 ```
