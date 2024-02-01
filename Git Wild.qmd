@@ -10,7 +10,7 @@ editor: visual
 
 
 
-<<<<<<< HEAD
+
 
 ## why are we here, if just to suffer
 
